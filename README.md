@@ -8,6 +8,7 @@ udacity_github_project
 
 ### Description
 Describe what your project is about and what it does
+My project provides an opportunity to explore bikeshare data from Chicago, New York City, or Washington.
 
 ### Files used
 Include the files used
