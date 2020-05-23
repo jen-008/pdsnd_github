@@ -18,3 +18,7 @@ practice, practice, practice
 leverage resources
 don't give up!
 
+### Next Steps
+explore web interface
+gather user experience data
+build tracking analytics
