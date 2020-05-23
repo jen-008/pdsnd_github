@@ -13,3 +13,8 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+### Lessons Learned
+practice, practice, practice
+leverage resources
+don't give up!
+
