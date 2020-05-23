@@ -4,6 +4,7 @@ May 23, 2020
 
 ### Project Title
 Replace the Project Title
+udacity_github_project
 
 ### Description
 Describe what your project is about and what it does
