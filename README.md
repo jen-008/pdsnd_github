@@ -19,4 +19,13 @@ washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity Programming for Data Science Nanodegree
+
+Additional assistance from the following:
+
+Udacity mentors and Knowledge support
+
+w3school https://www.w3schools.com/python
+
+Python Crash Course - Cheat Sheets https://ehmatthes.github.io/pcc/cheatsheets/README.html
 
